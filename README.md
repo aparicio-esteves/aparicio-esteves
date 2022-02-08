@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aparicio-esteves
-- 👀 I’m interested in Learning Go
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Learning Rust
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
